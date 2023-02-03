@@ -1,0 +1,12 @@
+name,estimate,std.error,conf.low,conf.high,p.value,model
+D,0.1012,0.0575,-0.0115,0.2140,0.0785,Robustness
+FDI,0.0031,0.0025,-0.0019,0.0081,0.2280,Robustness
+RD_investment,0.0000,0.0000,0.0000,0.0000,0.1736,Robustness
+Regional_state_owned_capital_revenue,-0.0004,0.0003,-0.0009,0.0002,0.2154,Robustness
+Road,-0.0001,0.0067,-0.0133,0.0131,0.9886,Robustness
+Urban_population,0.0001,0.0001,-0.0001,0.0003,0.5721,Robustness
+education_expenditure,-0.0004,0.0001,-0.0006,-0.0002,0.0002,Robustness
+industrial_level,1.0562,0.4295,0.2144,1.8980,0.0139,Robustness
+industrial_water_usage,-0.0038,0.0020,-0.0077,0.0000,0.0511,Robustness
+informalization,-0.0623,0.0439,-0.1484,0.0238,0.1560,Robustness
+tech,0.0001,0.0002,-0.0003,0.0005,0.6608,Robustness
